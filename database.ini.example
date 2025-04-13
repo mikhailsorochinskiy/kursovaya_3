@@ -1,0 +1,5 @@
+[postgresql]
+host=localhost # если локальный компьютер
+user=имя пользователя
+password=пароль
+port=порт
